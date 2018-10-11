@@ -9,3 +9,5 @@ to migrate the database
 $ sequelize db:migrate
 ```
 done installing nodejs
+
+$ helloworld
